@@ -7,13 +7,15 @@ import { DeveloperListComponent } from './developer-list/developer-list.componen
 import { HttpClientModule } from '@angular/common/http';
 import { DeveloperCardComponent } from './developer-card/developer-card.component';
 import { RepoListComponent } from './repo-list/repo-list.component';
+import { RepoCardComponent } from './repo-card/repo-card.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     DeveloperListComponent,
     DeveloperCardComponent,
-    RepoListComponent
+    RepoListComponent,
+    RepoCardComponent
   ],
   imports: [
     BrowserModule,
