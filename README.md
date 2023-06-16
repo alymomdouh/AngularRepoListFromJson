@@ -1,3 +1,7 @@
+# This Project Complet After View Course In YouTube Here [Angular 10+ from تخاريف مبرمج](https://www.youtube.com/playlist?list=PLkzDzmo9y3VFzNCAyGWIg7Wy9i3mlUi4Y)
+
+
+
 # AngularRepoListFromJson
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.3.
