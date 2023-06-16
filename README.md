@@ -29,4 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Most used Commands 
 
 ###  1. npm install bootstrap --save
-
+###  1. npm install material-icons --save
