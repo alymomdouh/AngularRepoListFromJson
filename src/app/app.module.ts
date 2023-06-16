@@ -6,12 +6,14 @@ import { AppComponent } from './app.component';
 import { DeveloperListComponent } from './developer-list/developer-list.component';
 import { HttpClientModule } from '@angular/common/http';
 import { DeveloperCardComponent } from './developer-card/developer-card.component';
+import { RepoListComponent } from './repo-list/repo-list.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     DeveloperListComponent,
-    DeveloperCardComponent
+    DeveloperCardComponent,
+    RepoListComponent
   ],
   imports: [
     BrowserModule,
